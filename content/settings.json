@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/camirastore",
   "logo": "/img/uploads/logo-teste.jpeg",
   "name": "C2 Alimentos",
-  "short_name": "camirastore",
+  "short_name": "C2 Alimentos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 51271,
-  "description": "camirastore",
+  "description": "C2 Alimentos e Produtos",
   "large_icon": "/img/large-icon.png"
 }
